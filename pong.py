@@ -8,9 +8,9 @@ WIDTH = 900
 HEIGHT = 600
 FPS = 60
 
-WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-GRAY = (120, 120, 120)
+WHITE = (67, 255, 69)
+BLACK = (0,255, 0)
+GRAY = (255, 0, 25)
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Spong")
